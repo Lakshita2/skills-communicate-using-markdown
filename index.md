@@ -20,3 +20,9 @@ int b=6;
 int c=a+b;
 printf("%d", c);
 ```
+
+
+- [x] Task1
+- [x] Task2
+- [x] Task3
+- [ ] Task4
